@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+.leftside {
+  background-image: url("../images/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+.form-div {
+  padding: 6%;
+}
+.leftmid {
+  margin-top: 40%;
+  font-weight: 600;
+}
+.dashboard {
+  background-image: url("../images/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+.leftbottom {
+  position: absolute;
+  bottom: 0;
+  color: white;
+}
